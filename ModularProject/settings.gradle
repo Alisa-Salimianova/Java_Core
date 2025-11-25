@@ -1,0 +1,6 @@
+rootProject.name = 'ModularProject'
+include 'db'
+include 'service'
+include 'api'
+
+include 'service'
